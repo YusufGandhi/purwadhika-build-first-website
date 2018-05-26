@@ -27,3 +27,8 @@ _Prerequisites:_ **Google Chrome** telah terpasang di komputer. Jika belum, sila
 4. Klik menu **File** --> **Save** (atau shortcut di keyboard `Ctrl+S`) untuk menyimpan build system tersebut.
 5. Berikan nama `Chrome.sublime-build`.
 6. Tutup jendela file `Chrome.sublime-build` tersebut.
+
+
+Slide Presentasi
+----------------
+Materi slide presentasi dapat dilihat [di sini](https://docs.google.com/presentation/d/1suKuH8dpxbxQvIz7EWhAzHT3MPYKajarIRp7CIjcqR0/edit?usp=sharing)

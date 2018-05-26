@@ -14,7 +14,7 @@ Setup Tools
 
 Setup Tambahan untuk SublimeText 3
 ----------------------------------
-Prerequisites: Google Chrome telah terinstalasi di komputer. Jika belum install di laman https://www.google.com/chrome/
+_Prerequisites:_ **Google Chrome** telah terpasang di komputer. Jika belum, silakan _install_ melalui laman https://www.google.com/chrome/
 
 1. Pastikan jendela **Sublime Text** terbuka.
 2. Pilih menu **Tools** --> **Build System** --> **New Build System...**.

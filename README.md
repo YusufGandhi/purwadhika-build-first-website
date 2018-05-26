@@ -16,14 +16,14 @@ Setup Tambahan untuk SublimeText 3
 ----------------------------------
 Prerequisites: Google Chrome telah terinstalasi di komputer. Jika belum install di laman https://www.google.com/chrome/
 
-1. Pastikan jendela Sublime Text terbuka
-2. Pilih menu **Tools** --> **Build System** --> **New Build System...**
+1. Pastikan jendela **Sublime Text** terbuka.
+2. Pilih menu **Tools** --> **Build System** --> **New Build System...**.
 3. Ketik di dalam kurung kurawal (antara karakter "{" dan "}") perintah berikut:
 
      	"cmd": ["<ALAMAT_DIREKTORI_CHROME>", "$file"]
 
-   Note: Ganti **<ALAMAT_DIREKTORI_CHROME>** dengan alamat absolut _(aboslute path)_ ke aplikasi Google Chrome di komputer Anda
+   Note: Ganti **<ALAMAT_DIREKTORI_CHROME>** dengan alamat absolut _(aboslute path)_ ke aplikasi Google Chrome di komputer Anda.
 
-4. Klik menu **File** --> **Save** (atau shortcut di keyboard `Ctrl+S`) untuk menyimpan build system tersebut
-5. Berikan nama "Chrome.sublime-build"
-6. Tutup jendela file Chrome.sublime-build
+4. Klik menu **File** --> **Save** (atau shortcut di keyboard `Ctrl+S`) untuk menyimpan build system tersebut.
+5. Berikan nama `Chrome.sublime-build`.
+6. Tutup jendela file `Chrome.sublime-build` tersebut.

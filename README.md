@@ -1,6 +1,4 @@
-=====================================
-Purwadhika Workshop
-HOW TO BUILD YOUR FIRST WEBSITE
+## HOW TO BUILD YOUR FIRST WEBSITE
 
 Tools setup guide
 
@@ -10,7 +8,7 @@ by Yusuf Gandhi Putra
 
 
 
-Setup Tools
+### Setup Tools
 -----------
 1. Download dan install SublimeText 3 di laman https://www.sublimetext.com/3
 2. Daftar CodePen di laman https://www.codepen.io
